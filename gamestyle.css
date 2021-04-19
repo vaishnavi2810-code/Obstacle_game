@@ -1,0 +1,12 @@
+canvas {
+    border:1px solid #d3d3d3;
+    background-color:black;
+}
+#restartButton{
+    position:absolute;
+    left:40px;
+    top:20px;
+    display:block;
+    border:0;
+    
+}
